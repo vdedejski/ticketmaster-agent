@@ -1,1 +1,9 @@
+chainlit
 pre-commit
+langchain
+langgraph
+langchain-openai
+langchain_community
+fastapi
+pydantic_settings
+uvicorn
