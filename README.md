@@ -4,11 +4,10 @@
 An AI agent that fetches data from "ticketmaster" and returns and answer.
 
 ## Architecture diagram
-'TODO'
 
-----
+![Architecture diagram](./screenshots/architecture.png)
 
-
+-------
 ## Setup
 
 #### Local Development
@@ -37,16 +36,9 @@ or
 #### Docker
 
 ```
-
+docker compose up --build
 ```
-
-#### Pre-commit rules
-
-```
-```
-
-----
 
 #### Demo
+![Demo question screengshot](./screenshots/random_events.png)
 
-"TODO url"
